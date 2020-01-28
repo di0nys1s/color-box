@@ -1,0 +1,25 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #eee;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+.flexbox-item {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: white;
+
+}
+
+/*# sourceMappingURL=styles.css.map */
